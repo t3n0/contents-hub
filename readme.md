@@ -27,7 +27,7 @@ All my notes, lectures, tools, scripts and ideas spanning condensed matter physi
 </details>
 
 <details>
-  <summary><b>📈 Talks and Conferences <a href="https://github.com">➚</a></b></summary>
+  <summary><b>📈 Talks and Conferences <a href="https://github.com/t3n0/talks-and-conferences">➚</a></b></summary>
   <br>
   
   *   [**APS 2020**](https://raw.github.com/t3n0/talks-and-conferences/main/assets/aps2020.pdf) - Exciton and phonon ultrafast dynamics in SWCNTs.
@@ -40,14 +40,13 @@ All my notes, lectures, tools, scripts and ideas spanning condensed matter physi
 ## 💻 Scientific Utilities
 
 <details>
-  <summary><b>💾 Scripts and Snippets <a href="https://github.com">➚</a></b></summary>
+  <summary><b>💾 Scripts and Snippets <a href="https://github.com/t3n0/scripts-and-snippets">➚</a></b></summary>
   <br>
   
-  *   [**Runge Kutta integrators**](https://github.com) - RK family routines for time series integration.
-  *   [**Fourier interpolation**](https://github.com) - Written in python.
-  *   [**2D line on a pixel grid**](https://github.com) - Python function to approximate a 2D line on a discrete grid.
-  *   [**Winding number**](https://github.com) - Calculates the winding number of a polygon around a pole.
-  *   [**Seesaw derivative**](https://github.com) - Derivative of a function that preserves the mid values.
+  *   [**Fourier interpolation**](https://github.com/t3n0/scripts-and-snippets/blob/main/scripts-and-snippets/fourier.ipynb) - Python function that interpolates any given 1D araay using fourier series.
+  *   [**2D line on a pixel grid**](https://github.com/t3n0/scripts-and-snippets/blob/main/scripts-and-snippets/line2D.ipynb) - Python function to approximate a 2D line on a discrete grid.
+  *   [**Winding number**](https://github.com/t3n0/scripts-and-snippets/blob/main/scripts-and-snippets/winding.ipynb) - Calculates the winding number of a polygon around a pole.
+  *   [**Seesaw derivative**](https://github.com/t3n0/scripts-and-snippets/blob/main/scripts-and-snippets/seesaw_derivative.ipynb) - Derivative of a function that preserves the mid values.
 </details>
 
 <details>
