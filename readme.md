@@ -10,19 +10,20 @@ All my notes, lectures, tools, scripts and ideas spanning condensed matter physi
 ## 📚 Academic Resources
 
 <details>
-  <summary><b>📖 Lectures and Notes <a href="https://github.com/t3n0/">➚</a></b></summary>
+  <summary><b>📖 Lectures and Notes <a href="https://github.com/t3n0/lectures-and-notes">➚</a></b></summary>
   <br>
   
-  *   [**Maxwell's equations in 1D**](https://github.com) - Leap frog algorythm at planar interface.
-  *   [**Ising model**](https://github.com) - Metropolis Montecarlo with python.
-  *   [**Quantum square well**](https://github.com) - Finite quantum well in 1D.
+  *   [**Maxwell's equations in 1D**](https://github.com/t3n0/lectures-and-notes/tree/main/maxwell1D) - Leap frog algorythm at planar interface.
+  *   [**Ising model**](https://github.com/t3n0/lectures-and-notes/tree/main/ising%20model) - Metropolis Montecarlo with python.
+  *   [**Quantum square well**](https://github.com/t3n0/lectures-and-notes/tree/main/finite%20square%20well%201D) - Finite quantum well in 1D.
+  *   [**Profiling python**](https://github.com/t3n0/lectures-and-notes/tree/main/profiling%20python) - Programming solutions to benchmark easy python scripts and make them faster.
 </details>
 
 <details>
-  <summary><b>📊 Published Assets and Data <a href="https://github.com">➚</a></b></summary>
+  <summary><b>📊 Published Assets and Data <a href="https://github.com/t3n0/published-assets">➚</a></b></summary>
   <br>
   
-  *   [**Ultrafast exciton fluid**](https://github.com) - Montecarlo simulation of ballistic transport of excitons in TMDs ([DOI](https://doi.org/10.1038/s41565-023-01438-8)).
+  *   [**Ballistic excitons**](https://github.com/t3n0/published-assets/tree/main/ballistic-excitons) - Montecarlo simulation of ballistic transport of excitons in transition metal dichalcogenides (TMDs). This work has been done using [this](https://github.com/t3n0/ballistic-transport). The paper was published in *Nature Nanotechnology*, **18** (9), 1012-1019 ([DOI](https://doi.org/10.1038/s41565-023-01438-8)).
 </details>
 
 <details>
