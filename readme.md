@@ -69,13 +69,12 @@ All my notes, lectures, tools, scripts and ideas spanning condensed matter physi
   <summary><b>⚙️ Software Notes <a href="https://github.com">➚</a></b></summary>
   <br>
   
-  *   [**Python**](https://github.com/t3n0/notes/python) - Installation, build and distribute, profiling, and more.
-  *   [**Quantum espresso**](https://github.comt3n0/notes/)
-  *   [**Siesta**](https://github.comt3n0/notes/)
-  *   [**Wanier90**](https://github.comt3n0/notes/)
-  *   [**Git**](https://github.comt3n0/notes/)
-  *   [**VSCode**](https://github.comt3n0/notes/)
-  *   [**Ubuntu**](https://github.comt3n0/notes/)
+  *   [**Python**](https://github.com/t3n0/notes/tree/main/python) - Installation, build and distribute, profiling, and more.
+  *   [**Quantum espresso**](https://github.com/t3n0/notes/tree/main/espresso)
+  *   [**Siesta**](https://github.com/t3n0/notes/tree/main/siesta)
+  *   [**Wanier90**](https://github.com/t3n0/notes/tree/main/wannier90)
+  *   [**Git**](https://github.com/t3n0/notes/tree/main/git)
+  *   [**Ubuntu**](https://github.com/t3n0/notes/tree/main/ubuntu)
 </details>
 
 <details>
