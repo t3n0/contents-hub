@@ -50,10 +50,15 @@ All my notes, lectures, tools, scripts and ideas spanning condensed matter physi
 </details>
 
 <details>
-  <summary><b>⚛️ Scientific Software <a href="https://github.com">➚</a></b></summary>
+  <summary><b>⚛️ Scientific Software</b></summary>
   <br>
   
   *   [**cntt**](https://github.com/t3n0/cntt) - Calculates electronic, exciton and optical properties of single wall carbon nanotubes.
+  *   [**ndplot**](https://github.com/t3n0/ndplot) - Generates an interactive n-dimensional plot from a collection of images.
+  *   [**qeflow**](https://github.com/t3n0/qeflow) - Manages and run custom quantum espresso workflows.
+  *   [**transfer matrix method**](https://github.com/t3n0/tranfer-matrix-method) - Computes absorption, reflection, transmission of light trough materials at normal incidence using a 4x4 transfer matrix formalism.
+  *   [**ballistic transport**](https://github.com/t3n0/ballistic-transport) - Calculates the diffusion profile of a particle moving ballistically in 2D.
+  *   [**plasmonic hot electrons**](https://github.com/t3n0/hot-carrier-NP) - Calculates the energy distribution of hot carriers in plasmonic nanoparticles as a function of external illumination, nanoparticle size and environmet.
 </details>
 
 ---
@@ -61,25 +66,25 @@ All my notes, lectures, tools, scripts and ideas spanning condensed matter physi
 ## 📝 Configurations and Memos
 
 <details>
-  <summary><b>⚙️ Software notes <a href="https://github.com">➚</a></b></summary>
+  <summary><b>⚙️ Software Notes <a href="https://github.com">➚</a></b></summary>
   <br>
   
-  *   [**Python**](https://github.com) - Installation, build and distribute, profiling, and more.
-  *   [**Quantum espresso**](https://github.com)
-  *   [**Siesta**](https://github.com)
-  *   [**Wanier90**](https://github.com)
-  *   [**Git**](https://github.com)
-  *   [**VSCode**](https://github.com)
-  *   [**Ubuntu**](https://github.com)
+  *   [**Python**](https://github.com/t3n0/notes/python) - Installation, build and distribute, profiling, and more.
+  *   [**Quantum espresso**](https://github.comt3n0/notes/)
+  *   [**Siesta**](https://github.comt3n0/notes/)
+  *   [**Wanier90**](https://github.comt3n0/notes/)
+  *   [**Git**](https://github.comt3n0/notes/)
+  *   [**VSCode**](https://github.comt3n0/notes/)
+  *   [**Ubuntu**](https://github.comt3n0/notes/)
 </details>
 
 <details>
   <summary><b>📑 Base Knowledge <a href="https://github.com">➚</a></b></summary>
   <br>
 
-  *   [**Markdown**](https://github.com)
-  *   [**Raw links**](https://github.com)
-  *   [**Shield and badges**](https://github.com)
+  *   [**Markdown**](https://github.comt3n0/notes/)
+  *   [**Raw links**](https://github.comt3n0/notes/)
+  *   [**Shield and badges**](https://github.comt3n0/notes/)
 </details>
 
 ---
