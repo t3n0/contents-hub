@@ -2,16 +2,17 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/t3n0/contents-hub)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+> [← Back to Profile](https://github.com/t3n0)
 
-> All my notes, lectures, tools, scripts and ideas spanning condensed matter physics and a number of other different topics.  
-[← Back to Profile](https://github.com/t3n0)
+All my notes, lectures, tools, scripts and ideas spanning condensed matter physics and a number of other different topics.  
+
 
 ---
 
 ## 📚 Academic Resources
 
 <details>
-  <summary><b>📖 Lectures and Notes<a href="https://github.com"> [➚]</a></b></summary>
+  <summary><b>📖 Lectures and Notes<a href="https://github.com"> ➚</a></b></summary>
   <br>
   
   *   [**Maxwell's equations in 1D**](https://github.com) - Leap frog algorythm at planar interface.
