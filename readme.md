@@ -70,11 +70,11 @@ All my notes, lectures, tools, scripts and ideas spanning condensed matter physi
   <br>
   
   *   [**Python**](https://github.com/t3n0/notes/tree/main/python) - Installation, build and distribute, profiling, and more.
-  *   [**Quantum espresso**](https://github.com/t3n0/notes/tree/main/espresso)
-  *   [**Siesta**](https://github.com/t3n0/notes/tree/main/siesta)
-  *   [**Wanier90**](https://github.com/t3n0/notes/tree/main/wannier90)
-  *   [**Git**](https://github.com/t3n0/notes/tree/main/git)
-  *   [**Ubuntu**](https://github.com/t3n0/notes/tree/main/ubuntu)
+  *   [**Quantum espresso**](https://github.com/t3n0/notes/tree/main/espresso) - Installation and basic workflows
+  *   [**Siesta**](https://github.com/t3n0/notes/tree/main/siesta) - Installation
+  *   [**Wanier90**](https://github.com/t3n0/notes/tree/main/wannier90) - Installation
+  *   [**Git**](https://github.com/t3n0/notes/tree/main/git) - Basic commands and clonig tips
+  *   [**Ubuntu**](https://github.com/t3n0/notes/tree/main/ubuntu) - Clean install, managing libraries, SSH, and more.
 </details>
 
 <details>
