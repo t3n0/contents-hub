@@ -64,6 +64,7 @@ All my notes, lectures, tools, scripts and ideas spanning condensed matter physi
 * [**Wanier90**](https://github.com/t3n0/notes/tree/main/wannier90) - Installation
 * [**Git**](https://github.com/t3n0/notes/tree/main/git) - Basic commands and clonig tips
 * [**Ubuntu**](https://github.com/t3n0/notes/tree/main/ubuntu) - Clean install, managing libraries, SSH, and more.
+* [**Math**](https://github.com/t3n0/notes/tree/main/math) - Notes on rescaling ODE
 * [**Markdown**](https://github.com/t3n0/notes/tree/main/markdown) - Basic markdown, VS code plugins.
 
 ### 📝 Miscellaneous
